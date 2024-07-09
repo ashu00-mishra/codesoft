@@ -1,2 +1,2 @@
 # codesoft
-For learning UI/UX .
+codesoft project for internship .
